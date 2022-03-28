@@ -1,0 +1,13 @@
+div {
+ 
+    position: absolute;
+  border:1px solid #41729c;
+  }
+  body{
+    background-color: #256ae9;
+  width:353px;
+  height:113px;
+    top: 95px;
+    left:56px;
+  z-index:800;
+  }
